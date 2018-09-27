@@ -1,0 +1,8 @@
+Create a counter with redux
+- You can increment
+- Decrement
+- Reset counter
+- Add certain value to the counter
+You should only dispatch actions to modify your store.
+Create a subscription to your store and log the value on every action dispatched
+
